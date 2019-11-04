@@ -5,7 +5,9 @@
 } */
 
 body {
-	font-family: "futura"
+	font-family: "futura";
+	background-color: #191970;
+	color: white;
 }
 
 .aboveh1 {
@@ -54,11 +56,26 @@ footer {
 }
 
 img {
-	width: 150px;
-	height: 150px;
-	display: inline;
+	width: 300px;
+	height: 250px;
 }
 
 input {
-	display: inline;
+}
+
+form {
+	display: flex;
+  	flex-flow: row;
+  	justify-content: space-evenly;
+  	padding-bottom: 50px;
+  	border-bottom: 3px solid black;
+}
+
+.textQuestion {
+	font-size: 48px;
+}
+
+button {
+	width: 100px;
+	height: 30px;
 }
