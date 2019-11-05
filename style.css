@@ -98,3 +98,60 @@ button {
 	float: right;
 	margin-right: 50px;
 }
+
+li {
+	font-family: "futura";
+	color: white;
+	display: inline;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+nav {
+	background-color: #DC143C;
+	text-align: center;
+	font-size: 30px;
+}
+
+a {
+	color: white;
+}
+
+table {
+	background-color: white;
+	color: black;
+	font-size: 18px;
+	flex-direction: row;
+}
+
+caption {
+	background-color: white;
+	color: black;
+	font-size: 18px;
+	flex-direction: row;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  background-color: white;
+  color: black;
+  text-align: center;
+  font-size: 24px;
+  border: 7px solid black;
+}
+
+.play {
+	width: 75px;
+	height: 25px;
+	text-align: center;
+	font-size: 18px;
+}
+
+.enterName {
+	height: 30px;
+	width: 200px;
+	font-size: 18px;
+}
