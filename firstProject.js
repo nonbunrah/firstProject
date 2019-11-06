@@ -28,3 +28,7 @@ refresh.addEventListener("click", reload = () => {
 });
 
 let answerInputs = document.querySelectorAll("input[type = 'radio']")
+
+let pName = document.querySelector(".playerName")
+
+pName.textContent = `Player Name: ${sessionStorage.playerName}`;
