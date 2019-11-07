@@ -8,7 +8,8 @@ My project is a quiz that I have created about my dream car: the 2004 Volkswagen
 The approach I took for this project revolved around using the knowledge that I've learned during the first couple weeks of this bootcamp. I used a lot of the HTML, CSS, and JavaScript knowledge that I knew. With this in mind, I knew that I wanted to create a quiz because that would be within the scope of what we had learned thus far. Creating a game like pong or galaga would have been outside this scope.
 
 ## Unsolved problems:
-I did not really run into any unsolved problems, but I did have to shortcut some things due to not having a lot of time. I was not able to create a 3rd page that would hold the score, so instead I just created an alert that tells the player their score. 
+I did not really run into any unsolved problems, but I did have to shortcut some things due to not having a lot of time. I was not able to create a 3rd page that would hold the score, so instead I just created an alert that tells the player their score. My stretch goal was also to create another quiz for another car, and just to keep adding. But given the time constraint again, I was not able to do so. 
+
 ## User stories:
 1) User loads the page and reads the "How to play"
 2) User enters name in the "please enter your name" section
@@ -16,7 +17,6 @@ I did not really run into any unsolved problems, but I did have to shortcut some
 4) User answers questions about the car via multiple choice questions
 5) After answering questions, the page switches to score page
 6) User sees score and there is a button asking if the user would like to play again.
-<hr>
 <hr>
 Wireframes:
 
