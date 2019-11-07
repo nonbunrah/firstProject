@@ -1,5 +1,7 @@
 //image click
 
+document.createElement("")
+
 let imageClick = document.querySelector("img")
 
 //imageClick.addEventListener("click", )
