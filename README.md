@@ -12,7 +12,7 @@ User stories:
 6) User sees score and there is a button asking if the user would like to play again.
 
 <img src="https://git.generalassemb.ly/nonbunrah/firstProject/blob/master/pics/wireframeintro.jpeg" style="height:200px; width:200px;" />
-<img src="/Users/RJ/projects/firstProject/pics/wireframe.jpeg" style="height:200px; width:200px;" />
-<img src="/Users/RJ/projects/firstProject/pics/wireframescore.jpeg" style="height:200px; width:200px;" />
+<img src="https://git.generalassemb.ly/nonbunrah/firstProject/blob/master/pics/wireframe.jpeg" style="height:200px; width:200px;" />
+<img src="https://git.generalassemb.ly/nonbunrah/firstProject/blob/master/pics/wireframescore.jpeg" style="height:200px; width:200px;" />
 
 --RJ
