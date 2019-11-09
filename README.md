@@ -20,8 +20,8 @@ I did not really run into any unsolved problems, but I did have to shortcut some
 <hr>
 Wireframes:
 
-<img src="https://git.generalassemb.ly/nonbunrah/firstProject/blob/master/pics/wireframeintro.jpeg" style="height:200px; width:200px;" />
-<img src="https://git.generalassemb.ly/nonbunrah/firstProject/blob/master/pics/wireframe.jpeg" style="height:200px; width:200px;" />
-<img src="https://git.generalassemb.ly/nonbunrah/firstProject/blob/master/pics/wireframescore.jpeg" style="height:200px; width:200px;" />
+<img src="pics/wireframeintro.jpeg" style="height:200px; width:200px;" />
+<img src="pics/wireframe.jpeg" style="height:200px; width:200px;" />
+<img src="pics/wireframescore.jpeg" style="height:200px; width:200px;" />
 
 --RJ
