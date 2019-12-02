@@ -1,6 +1,8 @@
 
 # firstProject
 
+<a href="https://nonbunrah.github.io/firstProject/">Play the game here!</a>
+
 ## What it is?
 My project is a quiz that I have created about my dream car: the 2004 Volkswagen Golf R32. I created this quiz because I have a passion for cars and wanted to show my passion and knowledge in this project. 
 
